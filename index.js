@@ -1,6 +1,3 @@
-
-
-
 const fs = require('fs');
 const noblox = require('noblox.js');
 

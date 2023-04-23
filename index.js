@@ -1,5 +1,4 @@
 
-//note: this code uses a custom noblox version that i modified myself to adapt to roblox's API changes, if noblox retuns error then you need to install my custom noblox version in my github.
 
 
 const fs = require('fs');
